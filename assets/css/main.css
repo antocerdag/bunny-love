@@ -77,3 +77,9 @@ header{
 	font-size: 14px;
 	display: inline-block;
 }
+/* SECCION FOTOS PEQUEÑAS */ 
+.section{
+	background-color: white;
+    width: 85%;
+    margin-left: 6%;
+}
