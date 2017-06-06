@@ -74,10 +74,12 @@
 	font-size: 17px;
 }
 .texto p{
-	font-size: 16px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 400;
+    width: 88%;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     margin-top: 31px;
+    margin-left: 6%;
 }
 /*  GO FULL WIDTH BELOW 480 PIXELS */
 @media only screen and (max-width: 480px) {
